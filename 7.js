@@ -1,4 +1,4 @@
-let myarr ;
+let myarr = ["ms", 4, "s", 8, true, 3, 0, NaN, 9];;
 countEven = 0;
 countOdd = 0;
 сountZero = 0;
